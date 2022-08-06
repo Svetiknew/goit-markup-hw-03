@@ -48,6 +48,8 @@ body {
 
 .header {
     background-color: #fff;
+    padding-top: 24px;
+    padding-bottom: 25px;
 }
 
 ul {

@@ -125,6 +125,10 @@ ul {
 
 }
 
+.our-features {
+    padding-top: 94px;
+}
+
 .feature {
     font-weight: 700;
     font-size: 14px;
@@ -140,6 +144,10 @@ ul {
     line-height: 1.71;    
     letter-spacing: 0.03em;
     color: var(--fourth-title-color);
+}
+
+.our-doing {
+    padding-bottom: 94px;
 }
 
 .doing,

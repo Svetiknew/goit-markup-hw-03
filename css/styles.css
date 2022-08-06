@@ -166,6 +166,10 @@ ul {
     color: var(--main-title-color);
 }
 
+.our-workers {
+    margin-bottom: 50px;
+}
+
 .workers {
     padding-top: 94px;
     padding-bottom: 94px;

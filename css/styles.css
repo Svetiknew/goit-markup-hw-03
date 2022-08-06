@@ -268,3 +268,7 @@ footer {
     letter-spacing: 0.03em;
     color: var(--fourth-title-color);
 }
+
+.footer-logo {
+    margin-top: 60px;
+}

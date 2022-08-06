@@ -249,6 +249,10 @@ footer {
     color: var(--second-title-color);
 }
 
+.btn-site {
+    margin-bottom: 56px;
+}
+
 .name-project {
     font-weight: 700;
     font-size: 18px;

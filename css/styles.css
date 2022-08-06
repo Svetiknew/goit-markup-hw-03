@@ -193,6 +193,7 @@ ul {
     text-align: center;
     letter-spacing: 0.03em;
     color: var(--fourth-title-color);
+    margin-bottom: 30px;
 }
 
 .address-item {
@@ -211,10 +212,14 @@ footer {
     color: var(--second-title-color);
 }
 
-.footer-address,
+.footer-address {
+    color: var(--second-title-color);
+}
+
+
 .footer-mail,
 .footer-tel {
-    color: var(--second-title-color);
+    color: rgba(255, 255, 255, 0.6);
 }
 
 .footer-address:hover,

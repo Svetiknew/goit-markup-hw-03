@@ -107,7 +107,8 @@ ul {
     letter-spacing: 0.06em;
     text-transform: uppercase;
     color: var(--second-title-color);
-    margin-bottom: 30px;
+    margin: 0 auto 30px;
+    max-width: 696px;
 }
 
 .service-order {

@@ -261,6 +261,8 @@ footer {
     line-height: 2;
     letter-spacing: 0.06em;
     color: var(--main-title-color);
+    margin-top: 20px;
+    margin-bottom: 4px;
 }
 
 .type-project {

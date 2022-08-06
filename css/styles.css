@@ -40,6 +40,8 @@ body {
     line-height: 1.19;    
     letter-spacing: 0.03em;
     color: #000000;
+    padding-top: 24px;
+    padding-bottom: 25px;
 }
 
 .logo-part {
@@ -48,8 +50,6 @@ body {
 
 .header {
     background-color: #fff;
-    padding-top: 24px;
-    padding-bottom: 25px;
 }
 
 ul {

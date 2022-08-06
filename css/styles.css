@@ -160,6 +160,11 @@ ul {
     color: var(--main-title-color);
 }
 
+.workers {
+    padding-top: 94px;
+    padding-bottom: 94px;
+}
+
 .worker-name {
     font-weight: 500;
     font-size: 16px;

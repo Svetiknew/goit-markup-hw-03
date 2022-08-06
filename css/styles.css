@@ -94,12 +94,11 @@ ul {
 }
 
 .page-one {
-    background: #2F303A
+    padding: 200px 0;
+    background: #2F303A;
+    text-align: center;
 }
 
-.container-page-one {
-    padding: 280px 350px;
-}
 .page-one-text {
     font-weight: 900;
     font-size: 44px;

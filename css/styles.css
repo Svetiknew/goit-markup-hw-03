@@ -145,6 +145,10 @@ body {
     padding-top: 94px;
 }
 
+.our-features-item {
+    justify-content: space-around;
+}
+
 .feature {
     font-weight: 700;
     font-size: 14px;

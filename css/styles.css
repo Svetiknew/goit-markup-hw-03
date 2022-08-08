@@ -91,6 +91,10 @@ body {
     color: var(--main-title-color);
 }
 
+.header-contacts {
+    display: flex;
+}
+
 .header-mail,
 .header-tel {
     font-weight: 500;

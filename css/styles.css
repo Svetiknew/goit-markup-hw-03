@@ -271,6 +271,16 @@ footer {
     color: var(--third-title-color);
 }
 
+.one {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+
+.general {
+    display: flex;
+}
+
 .btn {
     font-weight: 500;
     font-size: 16px;

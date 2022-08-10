@@ -370,4 +370,9 @@ img {
 .progects-list {
     display: flex;
     flex-wrap: wrap;
+    margin-right: 30px;
+}
+
+.progects-list:nth-child(3n) {
+    margin-right: 0;
 }

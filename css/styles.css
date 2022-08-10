@@ -32,6 +32,11 @@ body {
     color: var(--main-title-color);
 }
 
+.section {
+    padding-top: 94px;
+    padding-bottom: 94px;
+}
+
 .container {
     width: 1200px;
     padding-left: 15px;
@@ -157,6 +162,10 @@ body {
 
 .our-features {
     padding-top: 94px;
+}
+
+.our-features-list {
+    display: flex;
 }
 
 .our-features-item {

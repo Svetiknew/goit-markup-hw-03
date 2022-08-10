@@ -199,6 +199,9 @@ body {
     margin-top: 118px;
     margin-bottom: 50px;
 }
+.doing-list {
+    display: flex;
+}
 
 .doing,
 .our-workers {

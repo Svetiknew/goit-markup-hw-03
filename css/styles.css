@@ -328,7 +328,7 @@ footer {
     margin-bottom: 56px;
 }
 
-.btn-site:not(last child) {
+.btn:not(last child) {
     margin-right: 8px;
 }
 

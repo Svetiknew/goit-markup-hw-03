@@ -165,12 +165,12 @@ body {
 }
 
 .our-features-list {
-    display: flex;
-    margin-right: 30px;                                  
+    display: flex;                             
 }
 
 .our-features-item {
     justify-content: space-around;
+    margin-right: 30px;
 }
 
 .feature {

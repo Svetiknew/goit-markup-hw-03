@@ -202,7 +202,6 @@ body {
 .doing-list{
     display: flex;
     justify-content: center;
-    margin-right: 30px;
 }
 
 .doing-list:not(last-child) {

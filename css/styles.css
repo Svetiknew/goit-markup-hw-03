@@ -370,8 +370,11 @@ img {
 .flex-container {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 .flex-container {
     width: 380px;
+    margin-right: 30px;
+
 }

@@ -366,3 +366,7 @@ footer {
     display: flex;
     flex-wrap: wrap;
 }
+
+.flex-container {
+    width: 380px;
+}

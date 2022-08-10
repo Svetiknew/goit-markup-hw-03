@@ -227,6 +227,10 @@ body {
     padding-bottom: 94px;
 }
 
+.workers-list {
+    display: flex;
+}
+
 .worker-name {
     font-weight: 500;
     font-size: 16px;

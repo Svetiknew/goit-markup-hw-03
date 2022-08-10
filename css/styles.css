@@ -201,7 +201,6 @@ body {
 }
 .doing-list{
     display: flex;
-    justify-content: center;
 }
 
 .doing-list:not(last-child) {

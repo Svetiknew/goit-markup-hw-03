@@ -166,6 +166,7 @@ body {
 
 .our-features-list {
     display: flex;
+    margin-right: 30px;                                  
 }
 
 .our-features-item {

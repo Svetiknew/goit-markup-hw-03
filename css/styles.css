@@ -323,7 +323,13 @@ footer {
 .btn-site {
     display: flex;
     justify-content: center;
+
+    margin-top: 94px;
     margin-bottom: 56px;
+}
+
+.btn-site:not(last child) {
+    margin-right: 8px;
 }
 
 .name-project {

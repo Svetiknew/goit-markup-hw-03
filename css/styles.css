@@ -201,6 +201,7 @@ body {
 }
 .doing-list {
     display: flex;
+    justify-content: center;
 }
 
 .doing,

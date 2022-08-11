@@ -359,7 +359,6 @@ footer {
     line-height: 2;
     letter-spacing: 0.06em;
     color: var(--main-title-color);
-    margin-top: 20px;
     margin-bottom: 4px;
 }
 
@@ -392,7 +391,7 @@ img {
 .progects-list {
     display: flex;
     flex-wrap: wrap;
-    margin-right: 30px;
+    gap: 30px;
 }
 
 .progects-list:nth-child(3n) {

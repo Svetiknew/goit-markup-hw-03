@@ -227,12 +227,14 @@ body {
 }
 
 .workers {
+    background: #F5F4FA;
     padding-top: 94px;
     padding-bottom: 94px;
 }
 
 .workers-list {
     display: flex;
+    gap: 30px;
 }
 
 .worker-name {

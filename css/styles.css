@@ -264,10 +264,6 @@ body {
 }
 
 .address-item {
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 1.71;
-    letter-spacing: 0.03em;
     color: var(--second-title-color);
 }
 
@@ -279,6 +275,15 @@ footer {
 
 .logo-studio {
     color: var(--second-title-color);
+}
+
+.footer-address,
+.footer-mail,
+.footer-tel {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.71;
+    letter-spacing: 0.03em;
 }
 
 .footer-address {

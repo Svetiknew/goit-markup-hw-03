@@ -42,7 +42,6 @@ body {
     padding-left: 15px;
     padding-right: 15px;
     margin: 0 auto;
-    outline: 2px solid red;
 }
 
 .logo {
@@ -156,7 +155,7 @@ body {
     background: var(--third-title-color);
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     border-radius: 4px;
-    margin-top: 40px;
+    padding: 10px 32px;
 
 }
 
@@ -192,12 +191,17 @@ body {
     color: var(--fourth-title-color);
 }
 
+.header-item,
+.header-contacts-item,
+.our-features-item:last-child {
+    margin: 0;
+}
+
 .our-doing {
     padding-bottom: 94px;
 }
 
-.doing {
-    margin-top: 118px;
+.doing-item:not(last-child) {
     margin-bottom: 50px;
 }
 .doing-list{

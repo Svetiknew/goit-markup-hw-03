@@ -285,7 +285,6 @@ footer {
     color: var(--second-title-color);
 }
 
-
 .footer-mail,
 .footer-tel {
     color: rgba(255, 255, 255, 0.6);
@@ -306,14 +305,14 @@ footer {
     color: var(--third-title-color);
 }
 
+.footer-logo {
+    margin-bottom: 20px;
+}
+
 .one {
     display: inline-block;
     margin: 0;
     padding: 0;
-}
-
-.general {
-    display: flex;
 }
 
 .btn {

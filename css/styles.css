@@ -267,6 +267,10 @@ body {
     color: var(--second-title-color);
 }
 
+.address-list .address-item:not(:last-child) {
+    margin-bottom: 9px;
+}
+
 footer {
     background-color: #2F303A;
     padding-top: 60px;

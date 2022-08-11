@@ -346,8 +346,7 @@ footer {
 .btn-site {
     display: flex;
     justify-content: center;
-    margin-top: 94px;
-    margin-bottom: 56px;
+    margin-bottom: 50px;
 }
 
 .btn:not(last child) {

@@ -318,10 +318,6 @@ footer {
     color: var(--third-title-color);
 }
 
-.footer-logo {
-    margin-bottom: 20px;
-}
-
 .one {
     display: inline-block;
     margin: 0;

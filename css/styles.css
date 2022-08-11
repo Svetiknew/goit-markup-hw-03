@@ -237,6 +237,11 @@ body {
     gap: 30px;
 }
 
+.workers-item {
+    background-color: #FFFFFF;
+    border-radius: 0px 0px 4px 4px;
+}
+
 .worker-name {
     font-weight: 500;
     font-size: 16px;
@@ -244,7 +249,7 @@ body {
     text-align: center;
     letter-spacing: 0.03em;
     color: var(--main-title-color);
-    margin-top: 30px;
+    padding-top: 30px;
     margin-bottom: 10px;
 }
 
@@ -255,7 +260,7 @@ body {
     text-align: center;
     letter-spacing: 0.03em;
     color: var(--fourth-title-color);
-    margin-bottom: 30px;
+    padding-bottom: 30px;
 }
 
 .address-item {

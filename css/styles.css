@@ -277,6 +277,10 @@ footer {
     padding-bottom: 60px;
 }
 
+.footer-logo {
+    margin-bottom: 20px;
+}
+
 .logo-studio {
     color: var(--second-title-color);
 }

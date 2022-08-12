@@ -420,3 +420,8 @@ img {
 .progects-list:nth-child(3n) {
     margin-right: 0;
 }
+
+.item-box {
+    padding: 20px 24px;
+    border: 1px solid #EEEEEE;
+}

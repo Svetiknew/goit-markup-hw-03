@@ -268,7 +268,7 @@ body {
     color: var(--second-title-color);
 }
 
-.address-list .address-item:not(:last-child) {
+.address-item:not(:last-child) {
     margin-bottom: 9px;
 }
 

@@ -191,8 +191,14 @@ body {
     color: var(--fourth-title-color);
 }
 
-.header-item,
-.header-contacts-item,
+.header-item:last-child {
+    margin: 0;
+}
+
+.header-contacts-item:last-child {
+    margin: 0;
+}
+
 .our-features-item:last-child {
     margin: 0;
 }

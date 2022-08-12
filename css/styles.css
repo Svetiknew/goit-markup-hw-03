@@ -354,6 +354,10 @@ footer {
     margin-right: 8px;
 }
 
+.title-progects {
+    padding: 94px 0;
+}
+
 .name-project {
     font-weight: 700;
     font-size: 18px;

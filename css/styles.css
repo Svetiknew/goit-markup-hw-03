@@ -427,7 +427,11 @@ img {
     gap: 30px;
 }
 
-.progects-list:nth-child(3n) {
+.progects-list .progect-item:nth-child(3n) {
+    margin-right: 0;
+}
+
+.progects-list .progect-item:nth-last-child(-n+3) {
     margin-right: 0;
 }
 

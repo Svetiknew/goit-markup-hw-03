@@ -209,7 +209,7 @@ body {
 }
 
 .doing-item:not(last-child) {
-    margin-bottom: 30px;
+    margin-right: 30px;
 }
 
 .doing-list{

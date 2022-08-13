@@ -41,6 +41,7 @@ body {
     width: 1200px;
     padding-left: 15px;
     padding-right: 15px;
+    padding-bottom: 118px;
     margin: 0 auto;
 }
 
@@ -234,7 +235,7 @@ body {
 }
 
 .workers {
-    background color: #F5F4FA;
+    background: #F5F4FA;
     padding-top: 94px;
     padding-bottom: 94px;
 }

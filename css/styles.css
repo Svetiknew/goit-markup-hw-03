@@ -161,6 +161,7 @@ body {
 
 .our-features {
     padding-top: 94px;
+    padding-top: 94px;
 }
 
 .our-features-list {
@@ -215,10 +216,6 @@ body {
     display: flex;
 }
 
-.doing-list:not(last-child) {
-    margin-right: 30px;
-}
-
 .doing,
 .our-workers {
     font-weight: 700;
@@ -227,7 +224,7 @@ body {
     text-align: center;
     letter-spacing: 0.03em;
     color: var(--main-title-color);
-    padding-bottom: 50px;
+    margin-bottom: 50px;
 }
 
 .our-workers {
@@ -345,7 +342,6 @@ footer {
     text-align: center;
     letter-spacing: 0.03em;
     color: #212121;
-    cursor: pointer;
 }
 
 .btn-item {
@@ -435,5 +431,4 @@ img {
 
 .item-box {
     padding: 20px 24px;
-    border: 1px solid #EEEEEE;
 }

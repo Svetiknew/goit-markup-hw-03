@@ -64,7 +64,7 @@ body {
 
 .header {
     background-color: #fff;
-    border: 1px solid #FCFCFC;
+    border: 1px solid #ECECEC;
 }
 
 .header-nav,
@@ -224,7 +224,6 @@ body {
     text-align: center;
     letter-spacing: 0.03em;
     color: var(--main-title-color);
-    margin-bottom: 50px;
 }
 
 .workers {
@@ -340,7 +339,7 @@ footer {
     color: #212121;
 }
 
-.btn-item {
+.btn-item:not(:last-child) {
     margin-right: 8px;
 }
 
@@ -426,4 +425,5 @@ img {
 
 .item-box {
     padding: 20px 24px;
+    border: 1px solid #EEEEEE;
 }
